@@ -1,0 +1,24 @@
+{
+  "name": "leg-data",
+  "version": "1.0.0",
+  "description": "scrape legislative data",
+  "main": "bills.js",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisKam/leg-data.git"
+  },
+  "keywords": [],
+  "author": "Kris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisKam/leg-data/issues"
+  },
+  "homepage": "https://github.com/KrisKam/leg-data#readme"
+}
