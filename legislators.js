@@ -28,6 +28,6 @@ const puppeteer = require("puppeteer");
     })
   })
   console.log(JSON.stringify(legislators))
-  // await page.screenshot({path: 'example.png'});
+ 
   await browser.close();
 })();
