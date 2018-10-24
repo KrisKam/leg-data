@@ -5,7 +5,7 @@ const puppeteer = require("puppeteer");
   const browser = await puppeteer.launch({headless: true});
   const page = await browser.newPage();
 
-  await page.goto("https://leg.colorado.gov/bills/sb18-002");
+  await page.goto("https://leg.colorado.gov/bills/hb18-1128");
 
   const chamberSelection = await page.evaluate(() => {
     const chamberVoteSections = document.querySelectorAll("#bill-documents-tabs4 > ul > li");
