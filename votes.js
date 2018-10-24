@@ -23,16 +23,21 @@ const puppeteer = require("puppeteer");
       }) 
     })
   })
-
-  console.log("cs: ", chamberSelection)
  
-  const finalVotes = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll("tbody tr")).map(voteSection => {
-      
-      return person
-    })
+  let reducedArray = []
+
+  const reduce = chamberSelection.map(singleArr => {
+    let firstObj = singleArr.find(obj => obj.repass)
+    if (firstObj !== undefined) {
+      reducedArray.push(firstObj)
+    }
+    if (firstObj === undefined) {
+      let secondObj = singleArr.find(obj => obj.bill)
+    reducedArray.push(secondObj)
+    }
   })
-  console.log(JSON.stringify(finalVotes))
+
+  console.log(JSON.stringify(reducedArray))
   
 
   await browser.close();
