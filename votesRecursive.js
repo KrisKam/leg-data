@@ -2,12 +2,15 @@ const puppeteer = require("puppeteer");
 
 (async () => {
   try {
-  const browser = await puppeteer.launch({headless: true});
-  const page = await browser.newPage();
 
-  await page.goto("https://leg.colorado.gov/bills/sb18-002");
+  //Extract bills on page, recursively check next page in URL pattern.
+  const extractUrls = async url => {
 
-  const chamberSelection = await page.evaluate(() => {
+    //Scrape data
+    const page = await browser.newPage();
+    await page.goto(url);
+
+    const chamberSelection = await page.evaluate(() => {
       const chamberVoteSections = document.querySelectorAll("#bill-documents-tabs4 > ul > li");
     
     return Array.from(chamberVoteSections).map((voteSection) => {
@@ -29,10 +32,27 @@ const puppeteer = require("puppeteer");
       }
     })
   }) 
-  
+
+  await page.close();
+
+  //Recursively scrape the next page
+  if (chamberSelection.length < 1) {
+    //Terminate if no urls exist
+    return chamberSelection
+  } else {
+    const nextPageNumber = parseInt(url.match(/sb18=(\d+)$/)[1], 10) +1;
+    const nextUrl = `https://leg.colorado.gov/bills/sb18-${nextPageNumber}`
+
+    return chamberSelection.concat(await extractUrls(nextUrl))
+    }
+  };
+
+  const browser = await puppeteer.launch({headless: true});
+  const firstUrl = "https://leg.colorado.gov/bills/sb18-001";
+  const urls = await extractUrls(firstUrl);
+
+  console.log(JSON.stringify(urls))
       
-  console.log(chamberSelection)
-  
 
   await browser.close();
   }catch(error){
