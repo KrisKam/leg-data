@@ -26,14 +26,14 @@ const puppeteer = require("puppeteer");
 
   console.log("cs: ", chamberSelection)
  
-  // const finalVotes = await page.evaluate(() => {
-  //   return Array.from(document.querySelectorAll("tbody tr")).map(voteSection => {
+  const finalVotes = await page.evaluate(() => {
+    return Array.from(document.querySelectorAll("tbody tr")).map(voteSection => {
       
-  //     return person
-  //   })
-  // })
-  // console.log(JSON.stringify(finalVotes))
-  await page.screenshot({path: 'example.png'});
+      return person
+    })
+  })
+  console.log(JSON.stringify(finalVotes))
+  
 
   await browser.close();
   }catch(error){
