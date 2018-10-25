@@ -28,12 +28,11 @@ const numbers = require("./senateBillNumbers.js");
       // await browser.close();
       return urls;
     }
-
+    
     async function extractUrls(url, browser) {
       const page = await browser.newPage();
       await page.goto(url);
       const chamberSelection = await page.evaluate(() => {
-
         let titles = Array.from(document.querySelectorAll('.accordion-title h5'));
         let house = titles.find(el => el.innerText.indexOf('House Votes') > -1);
         let senate = titles.find(el => el.innerText.indexOf('Senate Votes') > -1);
@@ -63,12 +62,18 @@ const numbers = require("./senateBillNumbers.js");
               console.log("no data", tableData)
             }
           }
+          
           return items
         }
 
+        function selectOneBill(items) {
+          let item = items.slice(0,1);
+          return item;
+        }
+        
         return {
-          house: extractSection(house),
-          senate: extractSection(senate)
+          house: selectOneBill(extractSection(house)),
+          senate: selectOneBill(extractSection(senate))
         }
 
       })
