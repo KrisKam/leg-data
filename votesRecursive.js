@@ -1,5 +1,6 @@
 const puppeteer = require("puppeteer");
-const numbers = require("./senateBillNumbers.js");
+// const numbers = require("./senateBillNumbers.js");
+const numbers = require("./houseBillNumbers.js");
 
 (async () => {
   try {
