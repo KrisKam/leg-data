@@ -1,14 +1,28 @@
-// const numbers = require("./senateBillNumbers.js");
+
+const numbers = require("./senateBillNumbers.js")
+
+// function urlAppendBill(numbers) {
+//   if (!numbers) throw new Error('Numbers needs to NOT be null')
+//   return numbers.map(n => `https://leg.colorado.gov/bills/${n}`)
+// }
+
+// console.log(urlAppendBill(numbers))
 
 
-    // const nextPageNumber = numbers[i + 1]
 
-    // const nextUrl = `https://leg.colorado.gov/bills/sb18-${nextPageNumber}`
+function urlAppendBill(numbers) {
+  if (!numbers) throw new Error('Numbers needs to NOT be null')
+  let urlString = numbers.map(n => `https://leg.colorado.gov/bills/${n}`)
+  return cycleNumbers(urlString)
+}
 
-    // return chamberSelection.concat(await extractUrls(nextUrl))
 
-    const num = fetch("./senateBillNumbers.js")
-    .then(response => response.json())
-    .then(response => console.log('Success:', JSON.stringify(response)))
+function cycleNumbers(urlAppendBill) {
+  for (let i = 0; i < urlAppendBill.length; i++) {
+    console.log(urlAppendBill[i])
+  }
+}
 
-    console.log(num)
+urlAppendBill(numbers);
+
+
