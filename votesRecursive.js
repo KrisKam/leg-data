@@ -1,8 +1,6 @@
 const puppeteer = require("puppeteer");
 const numbers = require("./senateBillNumbers.js");
 
-// const flatten = arr1 => arr1.reduce((acc, val) => acc.concat(val), [])
-
 (async () => {
   try {
 
