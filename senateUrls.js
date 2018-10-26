@@ -1,4 +1,4 @@
-[ 'https://leg.colorado.gov/content/sb18-001vote62fb91',
+module.exports = [ 'https://leg.colorado.gov/content/sb18-001vote62fb91',
   'https://leg.colorado.gov/content/sb18-001vote0aed30',
   'https://leg.colorado.gov/content/sb18-002vote579e80',
   'https://leg.colorado.gov/content/sb18-002vote54edf0',
