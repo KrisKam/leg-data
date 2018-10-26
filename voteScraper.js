@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
-// const urls = require("./houseUrls.js");
-const urls = require("./senateUrls.js");
+const urls = require("./houseUrls.js");
+// const urls = require("./senateUrls.js");
 
 (async () => {
   try {
