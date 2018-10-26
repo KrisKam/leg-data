@@ -1,0 +1,652 @@
+[
+  {
+    "title": "Representative",
+    "lastName": "Arndt",
+    "fullName": "Jeni James Arndt",
+    "district": 53,
+    "party": "Democrat",
+    "phone": "303-866-2917",
+    "email": "jeni.arndt.house@state.co.us",
+    "sponsorName": "Rep. A. Arndt"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Becker",
+    "fullName": "KC Becker",
+    "district": 13,
+    "party": "Democrat",
+    "phone": "303-866-2578",
+    "email": "kcbecker.house@state.co.us",
+    "sponsorName": "Rep. B. Becker"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Becker",
+    "fullName": "Jon Becker",
+    "district": 65,
+    "party": "Republican",
+    "phone": "303-866-3706",
+    "email": "jon.becker.house@state.co.us",
+    "sponsorName": "Rep. B. Becker"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Beckman",
+    "fullName": "Susan Beckman",
+    "district": 38,
+    "party": "Republican",
+    "phone": "303-866-2953",
+    "email": "susan.beckman.house@state.co.us",
+    "sponsorName": "Rep. B. Beckman"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Benavidez",
+    "fullName": "Adrienne Benavidez",
+    "district": 32,
+    "party": "Democrat",
+    "phone": "303-866-2964",
+    "email": "adrienne.benavidez.house@state.co.us",
+    "sponsorName": "Rep. B. Benavidez"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Bridges",
+    "fullName": "Jeff Bridges",
+    "district": 3,
+    "party": "Democrat",
+    "phone": "303-866-2921",
+    "email": "jeff.bridges.house@state.co.us",
+    "sponsorName": "Rep. B. Bridges"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Buck",
+    "fullName": "Perry Buck",
+    "district": 49,
+    "party": "Republican",
+    "phone": "303-866-2907",
+    "email": "perrybuck49@gmail.com",
+    "sponsorName": "Rep. B. Buck"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Buckner",
+    "fullName": "Janet Buckner",
+    "district": 40,
+    "party": "Democrat",
+    "phone": "303-866-2944",
+    "email": "janet.buckner.house@state.co.us",
+    "sponsorName": "Rep. B. Buckner"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Carver",
+    "fullName": "Terri Carver",
+    "district": 20,
+    "party": "Republican",
+    "phone": "303-866-2191",
+    "email": "terri.carver.house@state.co.us",
+    "sponsorName": "Rep. C. Carver"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Catlin",
+    "fullName": "Marc Catlin",
+    "district": 58,
+    "party": "Republican",
+    "phone": "303-866-2955",
+    "email": "marc.catlin.house@state.co.us",
+    "sponsorName": "Rep. C. Catlin"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Coleman",
+    "fullName": "James Coleman",
+    "district": 7,
+    "party": "Democrat",
+    "phone": "303-866-2909",
+    "email": "james.coleman.house@state.co.us",
+    "sponsorName": "Rep. C. Coleman"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Covarrubias",
+    "fullName": "Phil Covarrubias",
+    "district": 56,
+    "party": "Republican",
+    "phone": "303-866-2912",
+    "email": "Phil.Covarrubias.house@state.co.us",
+    "sponsorName": "Rep. C. Covarrubias"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Danielson",
+    "fullName": "Jessie Danielson",
+    "district": 24,
+    "party": "Democrat",
+    "phone": "303-866-5522",
+    "email": "jessie.danielson.house@state.co.us",
+    "sponsorName": "Rep. D. Danielson"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Duran",
+    "fullName": "Crisanta Duran",
+    "district": 5,
+    "party": "Democrat",
+    "phone": "303-866-2925",
+    "email": "crisanta.duran.house@state.co.us",
+    "sponsorName": "Rep. D. Duran"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Esgar",
+    "fullName": "Daneya Esgar",
+    "district": 46,
+    "party": "Democrat",
+    "phone": "303-866-2968",
+    "email": "daneya.esgar.house@state.co.us",
+    "sponsorName": "Rep. E. Esgar"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Everett",
+    "fullName": "Justin Everett",
+    "district": 22,
+    "party": "Republican",
+    "phone": "303-866-2927",
+    "email": "justin.everett.house@state.co.us",
+    "sponsorName": "Rep. E. Everett"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Exum",
+    "fullName": "Tony Exum",
+    "district": 17,
+    "party": "Democrat",
+    "phone": "303-866-3069",
+    "email": "tony.exum.house@state.co.us",
+    "sponsorName": "Rep. E. Exum"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Foote",
+    "fullName": "Mike Foote",
+    "district": 12,
+    "party": "Democrat",
+    "phone": "303-866-2920",
+    "email": "mike.foote.house@state.co.us",
+    "sponsorName": "Rep. F. Foote"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Garnett",
+    "fullName": "Alec Garnett",
+    "district": 2,
+    "party": "Democrat",
+    "phone": "303-866-2911",
+    "email": "alec.garnett.house@state.co.us",
+    "sponsorName": "Rep. G. Garnett"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Ginal",
+    "fullName": "Joann Ginal",
+    "district": 52,
+    "party": "Democrat",
+    "phone": "303-866-4569",
+    "email": "joannginal@yahoo.com",
+    "sponsorName": "Rep. G. Ginal"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Gray",
+    "fullName": "Matt Gray",
+    "district": 33,
+    "party": "Democrat",
+    "phone": "303-866-4667",
+    "email": "matt@matthewgray.us",
+    "sponsorName": "Rep. G. Gray"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Hamner",
+    "fullName": "Millie Hamner",
+    "district": 61,
+    "party": "Democrat",
+    "phone": "303-866-2952",
+    "email": "rephamner@gmail.com",
+    "sponsorName": "Rep. H. Hamner"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Hansen",
+    "fullName": "Chris Hansen",
+    "district": 6,
+    "party": "Democrat",
+    "phone": "303-866-2967",
+    "email": "chris.hansen.house@state.co.us",
+    "sponsorName": "Rep. H. Hansen"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Herod",
+    "fullName": "Leslie Herod",
+    "district": 8,
+    "party": "Democrat",
+    "phone": "303-866-2959",
+    "email": "leslie.herod.house@state.co.us",
+    "sponsorName": "Rep. H. Herod"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Hooton",
+    "fullName": "Edie Hooton",
+    "district": 10,
+    "party": "Democrat",
+    "phone": "303-866-2915",
+    "email": "edie.hooton.house@state.co.us",
+    "sponsorName": "Rep. H. Hooton"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Humphrey",
+    "fullName": "Stephen Humphrey",
+    "district": 48,
+    "party": "Republican",
+    "phone": "303-866-2943",
+    "email": "rephumphrey48@yahoo.com",
+    "sponsorName": "Rep. H. Humphrey"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Jackson",
+    "fullName": "Dominique Jackson",
+    "district": 42,
+    "party": "Democrat",
+    "phone": "303-866-3911",
+    "email": "dominique.jackson.house@state.co.us",
+    "sponsorName": "Rep. J. Jackson"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Kennedy",
+    "fullName": "Chris Kennedy",
+    "district": 23,
+    "party": "Democrat",
+    "phone": "303-866-2951",
+    "email": "chris.kennedy.house@state.co.us",
+    "sponsorName": "Rep. K. Kennedy"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Kraft-Tharp",
+    "fullName": "Tracy Kraft-Tharp",
+    "district": 29,
+    "party": "Democrat",
+    "phone": "303-866-2950",
+    "email": "reptracy29@gmail.com",
+    "sponsorName": "Rep. K. Kraft-Tharp"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Landgraf",
+    "fullName": "Lois Landgraf",
+    "district": 21,
+    "party": "Republican",
+    "phone": "303-866-2946",
+    "email": "lois.landgraf.house@state.co.us",
+    "sponsorName": "Rep. L. Landgraf"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Lawrence",
+    "fullName": "Polly Lawrence",
+    "district": 39,
+    "party": "Republican",
+    "phone": "303-866-2935",
+    "email": "polly.lawrence.house@state.co.us",
+    "sponsorName": "Rep. L. Lawrence"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Lee",
+    "fullName": "Pete Lee",
+    "district": 18,
+    "party": "Democrat",
+    "phone": "303-866-2932",
+    "email": "pete.lee.house@state.co.us",
+    "sponsorName": "Rep. L. Lee"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Leonard",
+    "fullName": "Timothy Leonard",
+    "district": 25,
+    "party": "Republican",
+    "phone": "303-866-2582",
+    "email": "tim.leonard.house@state.co.us",
+    "sponsorName": "Rep. L. Leonard"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Lewis",
+    "fullName": "Kimmi Lewis",
+    "district": 64,
+    "party": "Republican",
+    "phone": "303-866-2398",
+    "email": "kimmi.lewis.house@state.co.us",
+    "sponsorName": "Rep. L. Lewis"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Liston",
+    "fullName": "Larry Liston",
+    "district": 16,
+    "party": "Republican",
+    "phone": "303-866-2937",
+    "email": "larry.liston.house@state.co.us",
+    "sponsorName": "Rep. L. Liston"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Lontine",
+    "fullName": "Susan Lontine",
+    "district": 1,
+    "party": "Democrat",
+    "phone": "303-866-2966",
+    "email": "susan.lontine.house@state.co.us",
+    "sponsorName": "Rep. L. Lontine"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Lundeen",
+    "fullName": "Paul Lundeen",
+    "district": 19,
+    "party": "Republican",
+    "phone": "303-866-2924",
+    "email": "paul.lundeen.house@state.co.us",
+    "sponsorName": "Rep. L. Lundeen"
+  },
+  {
+    "title": "Representative",
+    "lastName": "McKean",
+    "fullName": "Hugh McKean",
+    "district": 51,
+    "party": "Republican",
+    "phone": "303-866-2947",
+    "email": "hugh.mckean.house@state.co.us",
+    "sponsorName": "Rep. M. McKean"
+  },
+  {
+    "title": "Representative",
+    "lastName": "McLachlan",
+    "fullName": "Barbara McLachlan",
+    "district": 59,
+    "party": "Democrat",
+    "phone": "303-866-2914",
+    "email": "barbara.mclachlan.house@state.co.us",
+    "sponsorName": "Rep. M. McLachlan"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Melton",
+    "fullName": "Jovan Melton",
+    "district": 41,
+    "party": "Democrat",
+    "phone": "303-866-2919",
+    "email": "jovan.melton.house@state.co.us",
+    "sponsorName": "Rep. M. Melton"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Michaelson Jenet",
+    "fullName": "Dafna Michaelson Jenet",
+    "district": 30,
+    "party": "Democrat",
+    "phone": "303-866-2945",
+    "email": "dafna.michaelson.jenet.house@state.co.us",
+    "sponsorName": "Rep. M. Michaelson Jenet"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Neville",
+    "fullName": "Patrick Neville",
+    "district": 45,
+    "party": "Republican",
+    "phone": "303-866-5523",
+    "email": "patrick.neville.house@state.co.us",
+    "sponsorName": "Rep. N. Neville"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Pabon",
+    "fullName": "Dan Pabon",
+    "district": 4,
+    "party": "Democrat",
+    "phone": "303-866-2954",
+    "email": "dan.pabon.house@state.co.us",
+    "sponsorName": "Rep. P. Pabon"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Pettersen",
+    "fullName": "Brittany Pettersen",
+    "district": 28,
+    "party": "Democrat",
+    "phone": "303-866-2939",
+    "email": "brittany.pettersen.house@state.co.us",
+    "sponsorName": "Rep. P. Pettersen"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Rankin",
+    "fullName": "Bob Rankin",
+    "district": 57,
+    "party": "Republican",
+    "phone": "303-866-2949",
+    "email": "bob.rankin.house@state.co.us",
+    "sponsorName": "Rep. R. Rankin"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Ransom",
+    "fullName": "Kim Ransom",
+    "district": 44,
+    "party": "Republican",
+    "phone": "303-866-2933",
+    "email": "kim.ransom.house@state.co.us",
+    "sponsorName": "Rep. R. Ransom"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Reyher",
+    "fullName": "Judy Reyher",
+    "district": 47,
+    "party": "Republican",
+    "phone": "303-866-2905",
+    "email": "judy.reyher.house@state.co.us",
+    "sponsorName": "Rep. R. Reyher"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Roberts",
+    "fullName": "Dylan Roberts",
+    "district": 26,
+    "party": "Democrat",
+    "phone": "303-866-2923",
+    "email": "dylan.roberts.house@state.co.us",
+    "sponsorName": "Rep. R. Roberts"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Rosenthal",
+    "fullName": "Paul Rosenthal",
+    "district": 9,
+    "party": "Democrat",
+    "phone": "303-866-2910",
+    "email": "paulrosenthal5280@gmail.com",
+    "sponsorName": "Rep. R. Rosenthal"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Saine",
+    "fullName": "Lori Saine",
+    "district": 63,
+    "party": "Republican",
+    "phone": "303-866-2906",
+    "email": "lori.saine.house@state.co.us",
+    "sponsorName": "Rep. S. Saine"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Salazar",
+    "fullName": "Joseph Salazar",
+    "district": 31,
+    "party": "Democrat",
+    "phone": "303-866-2918",
+    "email": "joseph.salazar.house@state.co.us",
+    "sponsorName": "Rep. S. Salazar"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Sandridge",
+    "fullName": "Shane Sandridge",
+    "district": 14,
+    "party": "Republican",
+    "phone": "303-866-2965",
+    "email": "shane.sandridge.house@state.co.us",
+    "sponsorName": "Rep. S. Sandridge"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Sias",
+    "fullName": "Lang Sias",
+    "district": 27,
+    "party": "Republican",
+    "phone": "303-866-2962",
+    "email": "lang.sias.house@state.co.us",
+    "sponsorName": "Rep. S. Sias"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Singer",
+    "fullName": "Jonathan Singer",
+    "district": 11,
+    "party": "Democrat",
+    "phone": "303-866-2780",
+    "email": "jonathan.singer.house@state.co.us",
+    "sponsorName": "Rep. S. Singer"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Thurlow",
+    "fullName": "Dan Thurlow",
+    "district": 55,
+    "party": "Republican",
+    "phone": "303-866-3068",
+    "email": "danthurlow55@gmail.com",
+    "sponsorName": "Rep. T. Thurlow"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Valdez",
+    "fullName": "Donald Valdez",
+    "district": 62,
+    "party": "Democrat",
+    "phone": "303-866-2916",
+    "email": "donald.valdez.house@state.co.us",
+    "sponsorName": "Rep. V. Valdez"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Van Winkle",
+    "fullName": "Kevin Van Winkle",
+    "district": 43,
+    "party": "Republican",
+    "phone": "303-866-2936",
+    "email": "kevin.vanwinkle.house@state.co.us",
+    "sponsorName": "Rep. V. Van Winkle"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Weissman",
+    "fullName": "Mike Weissman",
+    "district": 36,
+    "party": "Democrat",
+    "phone": "303-866-2942",
+    "email": "mike.weissman.house@state.co.us",
+    "sponsorName": "Rep. W. Weissman"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Willett",
+    "fullName": "Yeulin Willett",
+    "district": 54,
+    "party": "Republican",
+    "phone": "303-866-2583",
+    "email": "yeulin.willett.house@state.co.us",
+    "sponsorName": "Rep. W. Willett"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Williams",
+    "fullName": "Dave Williams",
+    "district": 15,
+    "party": "Republican",
+    "phone": "303-866-5525",
+    "email": "dave.williams.house@state.co.us",
+    "sponsorName": "Rep. W. Williams"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Wilson",
+    "fullName": "James Wilson",
+    "district": 60,
+    "party": "Republican",
+    "phone": "303-866-2747",
+    "email": "representativewilson@gmail.com",
+    "sponsorName": "Rep. W. Wilson"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Winkler",
+    "fullName": "Alexander \"Skinny\" Winkler",
+    "district": 34,
+    "party": "Republican",
+    "phone": "303-866-2931",
+    "email": "alexander.winkler.house@state.co.us",
+    "sponsorName": "Rep. W. Winkler"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Winter",
+    "fullName": "Faith Winter",
+    "district": 35,
+    "party": "Democrat",
+    "phone": "303-866-2843",
+    "email": "faith.winter.house@state.co.us",
+    "sponsorName": "Rep. W. Winter"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Wist",
+    "fullName": "Cole Wist",
+    "district": 37,
+    "party": "Republican",
+    "phone": "303-866-5510",
+    "email": "cole.wist.house@state.co.us",
+    "sponsorName": "Rep. W. Wist"
+  },
+  {
+    "title": "Representative",
+    "lastName": "Young",
+    "fullName": "Dave Young",
+    "district": 50,
+    "party": "Democrat",
+    "phone": "303-866-2929",
+    "email": "dave.young.house@state.co.us",
+    "sponsorName": "Rep. Y. Young"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Senator",
+    "fullName": "Irene Aguilar",
+    "lastName": "Aguilar",
+    "district": 32,
+    "party": "Democrat",
+    "phone": "303-866-4852",
+    "email": "irene.aguilar.senate@state.co.us",
+    "sponsorName": "Sen. I. Aguilar"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Randy Baumgardner",
+    "lastName": "Baumgardner",
+    "district": 8,
+    "party": "Republican",
+    "phone": "303-866-5292",
+    "email": "randy.baumgardner.senate@state.co.us",
+    "sponsorName": "Sen. R. Baumgardner"
+  },
+  {
+    "title": "Senator",
+    "fullName": "John Cooke",
+    "lastName": "Cooke",
+    "district": 13,
+    "party": "Republican",
+    "phone": "303-866-4451",
+    "email": "john.cooke.senate@state.co.us",
+    "sponsorName": "Sen. J. Cooke"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Don Coram",
+    "lastName": "Coram",
+    "district": 6,
+    "party": "Republican",
+    "phone": "303-866-4884",
+    "email": "don.coram.senate@state.co.us",
+    "sponsorName": "Sen. D. Coram"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Lois Court",
+    "lastName": "Court",
+    "district": 31,
+    "party": "Democrat",
+    "phone": "303-866-4861",
+    "email": "lois.court.senate@state.co.us",
+    "sponsorName": "Sen. L. Court"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Larry Crowder",
+    "lastName": "Crowder",
+    "district": 35,
+    "party": "Republican",
+    "phone": "303-866-4875",
+    "email": "larry.crowder.senate@state.co.us",
+    "sponsorName": "Sen. L. Crowder"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Kerry Donovan",
+    "lastName": "Donovan",
+    "district": 5,
+    "party": "Democrat",
+    "phone": "303-866-4871",
+    "email": "kerry.donovan.senate@state.co.us",
+    "sponsorName": "Sen. K. Donovan"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Stephen Fenberg",
+    "lastName": "Fenberg",
+    "district": 18,
+    "party": "Democrat",
+    "phone": "303-866-4872",
+    "email": "stephen.fenberg.senate@state.co.us",
+    "sponsorName": "Sen. S. Fenberg"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Rhonda Fields",
+    "lastName": "Fields",
+    "district": 29,
+    "party": "Democrat",
+    "phone": "303-866-4879",
+    "email": "rhonda.fields.senate@state.co.us",
+    "sponsorName": "Sen. R. Fields"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Leroy Garcia",
+    "lastName": "Garcia",
+    "district": 3,
+    "party": "Democrat",
+    "phone": "303-866-4878",
+    "email": "leroy.garcia.senate@state.co.us",
+    "sponsorName": "Sen. L. Garcia"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Bob Gardner",
+    "lastName": "Gardner",
+    "district": 12,
+    "party": "Republican",
+    "phone": "303-866-4880",
+    "email": "bob.gardner.senate@state.co.us",
+    "sponsorName": "Sen. B. Gardner"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Kevin Grantham",
+    "lastName": "Grantham",
+    "district": 2,
+    "party": "Republican",
+    "phone": "303-866-4877",
+    "email": "kevin.grantham.senate@state.co.us",
+    "sponsorName": "Sen. K. Grantham"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Lucia Guzman",
+    "lastName": "Guzman",
+    "district": 34,
+    "party": "Democrat",
+    "phone": "303-866-4862",
+    "email": "lucia.guzman.senate@state.co.us",
+    "sponsorName": "Sen. L. Guzman"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Owen Hill",
+    "lastName": "Hill",
+    "district": 10,
+    "party": "Republican",
+    "phone": "303-866-2737",
+    "email": "owen.hill.senate@state.co.us",
+    "sponsorName": "Sen. O. Hill"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Chris Holbert",
+    "lastName": "Holbert",
+    "district": 30,
+    "party": "Republican",
+    "phone": "303-866-4881",
+    "email": "chris.holbert.senate@state.co.us",
+    "sponsorName": "Sen. C. Holbert"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Cheri Jahn",
+    "lastName": "Jahn",
+    "district": 20,
+    "party": "Unaffiliated",
+    "phone": "303-866-4856",
+    "email": "cheri.jahn.senate@state.co.us",
+    "sponsorName": "Sen. C. Jahn"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Matt Jones",
+    "lastName": "Jones",
+    "district": 17,
+    "party": "Democrat",
+    "phone": "303-866-5291",
+    "email": "senatormattjones@gmail.com",
+    "sponsorName": "Sen. M. Jones"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Daniel Kagan",
+    "lastName": "Kagan",
+    "district": 26,
+    "party": "Democrat",
+    "phone": "303-866-4846",
+    "email": "senatordanielkagan@gmail.com",
+    "sponsorName": "Sen. D. Kagan"
+  },
+  {
+    "title": "Senator",
+    "fullName": "John Kefalas",
+    "lastName": "Kefalas",
+    "district": 14,
+    "party": "Democrat",
+    "phone": "303-866-4841",
+    "email": "john.kefalas.senate@state.co.us",
+    "sponsorName": "Sen. J. Kefalas"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Andy Kerr",
+    "lastName": "Kerr",
+    "district": 22,
+    "party": "Democrat",
+    "phone": "303-866-4859",
+    "email": "SenatorAndyKerr@gmail.com",
+    "sponsorName": "Sen. A. Kerr"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Kent Lambert",
+    "lastName": "Lambert",
+    "district": 9,
+    "party": "Republican",
+    "phone": "303-866-4835",
+    "email": "senatorlambert@comcast.net",
+    "sponsorName": "Sen. K. Lambert"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Kevin Lundberg",
+    "lastName": "Lundberg",
+    "district": 15,
+    "party": "Republican",
+    "phone": "303-866-4853",
+    "email": "kevin@kevinlundberg.com",
+    "sponsorName": "Sen. K. Lundberg"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Vicki Marble",
+    "lastName": "Marble",
+    "district": 23,
+    "party": "Republican",
+    "phone": "303-866-4876",
+    "email": "vicki.marble.senate@state.co.us",
+    "sponsorName": "Sen. V. Marble"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Beth Martinez Humenik",
+    "lastName": "Martinez",
+    "district": 24,
+    "party": "Republican",
+    "phone": "303-866-4863",
+    "email": "beth.martinezhumenik.senate@state.co.us",
+    "sponsorName": "Sen. B. Martinez"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Michael Merrifield",
+    "lastName": "Merrifield",
+    "district": 11,
+    "party": "Democrat",
+    "phone": "303-866-6364",
+    "email": "michael.merrifield.senate@state.co.us",
+    "sponsorName": "Sen. M. Merrifield"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Dominick Moreno",
+    "lastName": "Moreno",
+    "district": 21,
+    "party": "Democrat",
+    "phone": "303-866-4857",
+    "email": "dominick.moreno.senate@state.co.us",
+    "sponsorName": "Sen. D. Moreno"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Tim Neville",
+    "lastName": "Neville",
+    "district": 16,
+    "party": "Republican",
+    "phone": "303-866-4873",
+    "email": "tim.neville.senate@state.co.us",
+    "sponsorName": "Sen. T. Neville"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Kevin Priola",
+    "lastName": "Priola",
+    "district": 25,
+    "party": "Republican",
+    "phone": "303-866-4855",
+    "email": "kpriola@gmail.com",
+    "sponsorName": "Sen. K. Priola"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Ray Scott",
+    "lastName": "Scott",
+    "district": 7,
+    "party": "Republican",
+    "phone": "303-866-3077",
+    "email": "ray.scott.senate@state.co.us",
+    "sponsorName": "Sen. R. Scott"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Jim Smallwood",
+    "lastName": "Smallwood",
+    "district": 4,
+    "party": "Republican",
+    "phone": "303-866-4869",
+    "email": "senatorsmallwood@gmail.com",
+    "sponsorName": "Sen. J. Smallwood"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Jerry Sonnenberg",
+    "lastName": "Sonnenberg",
+    "district": 1,
+    "party": "Republican",
+    "phone": "303-866-6360",
+    "email": "senatorsonnenberg@gmail.com",
+    "sponsorName": "Sen. J. Sonnenberg"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Jack Tate",
+    "lastName": "Tate",
+    "district": 27,
+    "party": "Republican",
+    "phone": "303-866-4883",
+    "email": "jack.tate.senate@state.co.us",
+    "sponsorName": "Sen. J. Tate"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Nancy Todd",
+    "lastName": "Todd",
+    "district": 28,
+    "party": "Democrat",
+    "phone": "303-866-3432",
+    "email": "nancy.todd.senate@state.co.us",
+    "sponsorName": "Sen. N. Todd"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Angela Williams",
+    "lastName": "Williams",
+    "district": 33,
+    "party": "Democrat",
+    "phone": "303-866-4864",
+    "email": "angela.williams.senate@state.co.us",
+    "sponsorName": "Sen. A. Williams"
+  },
+  {
+    "title": "Senator",
+    "fullName": "Rachel Zenzinger",
+    "lastName": "Zenzinger",
+    "district": 19,
+    "party": "Democrat",
+    "phone": "303-866-4840",
+    "email": "senatorrachelz@gmail.com",
+    "sponsorName": "Sen. R. Zenzinger"
+  }
+]
